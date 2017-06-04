@@ -1,9 +1,21 @@
+
+body{
+  background-color: black;
+}
+
+html{
+  color: white;
+}
+
 h2{
   display: inline-block;
   vertical-align: middle;
   font-size: 32px;
   margin: 20px 0px;
+  position: static;
 }
+
+
 
 span{
   margin-top: 0px;
